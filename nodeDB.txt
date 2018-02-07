@@ -1,0 +1,13 @@
+1. orientdb install
+  
+ . java installation if it is not available
+ . orientDB Web : download 64 bit orientDB
+ . install orientDB in C drive (depends on the user)
+ . locate orientDB : cd \orie + tab key 
+ . locate and move to bin folder in orientDB
+ . set up password
+ . user ID "root"
+ . open the browser and localhost port: 2480
+
+2. npm module
+ . npm install orientjs --save
